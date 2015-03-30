@@ -1,0 +1,1622 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.27)  30 MAR 2015 16:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**debian7install-befr.tex
+(./debian7install-befr.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/03/24 3.9k The Babel package
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/03/24 3.9k Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count89
+\c@Blindtext=\count90
+\c@blind@countparstart=\count91
+\blind@countxx=\count92
+\blindtext@numBlindtext=\count93
+\blind@countyy=\count94
+\c@blindlist=\count95
+\c@blindlistlevel=\count96
+\c@blindlist@level=\count97
+\blind@listitem=\count98
+\c@blind@listcount=\count99
+\c@blind@levelcount=\count100
+\blind@mathformula=\count101
+\blind@Mathformula=\count102
+\c@blind@randomcount=\count103
+\c@blind@randommax=\count104
+\c@blind@pangramcount=\count105
+\c@blind@pangrammax=\count106
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count107
+\Gm@cntv=\count108
+\c@Gm@tempcnt=\count109
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count110
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip43
+\thanksmargin=\skip44
+\droptitle=\skip45
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen114
+\extrarowheight=\dimen115
+\NC@list=\toks16
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+\everycr=\toks17
+\minrowclearance=\skip48
+)
+\rownum=\count111
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/sidecap/sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen116
+\SC@CAPWD=\dimen117
+\SC@tempdima=\dimen118
+\SC@tempdimb=\dimen119
+\c@SC@C=\count112
+\SC@BOX=\box26
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip49
+\LTright=\skip50
+\LTpre=\skip51
+\LTpost=\skip52
+\LTchunksize=\count113
+\LTcapwidth=\dimen120
+\LT@head=\box27
+\LT@firsthead=\box28
+\LT@foot=\box29
+\LT@lastfoot=\box30
+\LT@cols=\count114
+\LT@rows=\count115
+\c@LT@tables=\count116
+\c@LT@chunks=\count117
+\LT@p@ftn=\toks18
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/stackengine/stackengine.sty
+Package: stackengine 2014/01/06 v3.24\ Stacking text and objects in convenient 
+ways
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count118
+)
+\etb@tempcnta=\count119
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count120
+\calc@Bcount=\count121
+\calc@Adimen=\dimen121
+\calc@Bdimen=\dimen122
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count122
+\calc@Cskip=\skip55
+)
+\c@@stackindex=\count123
+\@boxshift=\skip56
+\stack@tmplength=\skip57
+\temp@stkl=\skip58
+\@stackedboxwidth=\skip59
+\@addedbox=\box31
+\@anchorbox=\box32
+\stackedbox=\box33
+\@centerbox=\box34
+\c@ROWcellindex@=\count124
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip60
+\RaggedLeftLeftskip=\skip61
+\RaggedRightLeftskip=\skip62
+\CenteringRightskip=\skip63
+\RaggedLeftRightskip=\skip64
+\RaggedRightRightskip=\skip65
+\CenteringParfillskip=\skip66
+\RaggedLeftParfillskip=\skip67
+\RaggedRightParfillskip=\skip68
+\JustifyingParfillskip=\skip69
+\CenteringParindent=\skip70
+\RaggedLeftParindent=\skip71
+\RaggedRightParindent=\skip72
+\JustifyingParindent=\skip73
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tabto-ltx/tabto.sty
+Package: tabto 2013/03/25  v 1.3  Another tabbing mechanism
+\CurrentLineWidth=\dimen123
+)
+(./debian7install-befr.aux)
+\openout1 = `debian7install-befr.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 28.45274pt
+* modes: twoside 
+* h-part:(L,W,R)=(42.67912pt, 441.01775pt, 85.35826pt)
+* v-part:(T,H,B)=(56.9055pt, 702.78308pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01775pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.13812pt
+* \evensidemargin=13.08827pt
+* \topmargin=-47.23828pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count125
+\scratchdimen=\dimen124
+\scratchbox=\box35
+\nofMPsegments=\count126
+\nofMParguments=\count127
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen125
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 39.
+
+<debianlogo2.png, id=1, 301.125pt x 396.48125pt>
+File: debianlogo2.png Graphic file (type png)
+ <use debianlogo2.png>
+Package pdftex.def Info: debianlogo2.png used on input line 57.
+(pdftex.def)             Requested size: 142.26378pt x 187.32022pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 57.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 57.
+ [1
+
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./debia
+nlogo2.png>] [2
+
+] (./debian7install-befr.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+ [3])
+\tf@toc=\write3
+\openout3 = `debian7install-befr.toc'.
+
+ [4]
+Chapter 1.
+[5
+
+] [6
+
+]
+Chapter 2.
+<img/debian7-65.png, id=29, 553.06625pt x 403.5075pt>
+File: img/debian7-65.png Graphic file (type png)
+ <use img/debian7-65.png>
+Package pdftex.def Info: img/debian7-65.png used on input line 87.
+(pdftex.def)             Requested size: 308.71107pt x 225.22997pt.
+File: img/debian7-65.png Graphic file (type png)
+
+<use img/debian7-65.png>
+Package pdftex.def Info: img/debian7-65.png used on input line 87.
+(pdftex.def)             Requested size: 308.71107pt x 225.22997pt.
+File: img/debian7-65.png Graphic file (type png)
+ <use img/debian7-65.png>
+Package pdftex.def Info: img/debian7-65.png used on input line 87.
+(pdftex.def)             Requested size: 308.71107pt x 225.22997pt.
+
+Underfull \hbox (badness 1635) in paragraph at lines 88--89
+[]| \OT1/cmr/m/n/12 Se-lect your vir-tual
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 88--89
+\OT1/cmr/m/n/12 tab: en-ter the vms
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 86--89
+ [] [] 
+ []
+
+<img/debian7-66.png, id=30, 553.06625pt x 483.8075pt>
+File: img/debian7-66.png Graphic file (type png)
+ <use img/debian7-66.png>
+Package pdftex.def Info: img/debian7-66.png used on input line 92.
+(pdftex.def)             Requested size: 308.71107pt x 270.05185pt.
+File: img/debian7-66.png Graphic file (type png)
+
+<use img/debian7-66.png>
+Package pdftex.def Info: img/debian7-66.png used on input line 92.
+(pdftex.def)             Requested size: 308.71107pt x 270.05185pt.
+File: img/debian7-66.png Graphic file (type png)
+ <use img/debian7-66.png>
+Package pdftex.def Info: img/debian7-66.png used on input line 92.
+(pdftex.def)             Requested size: 308.71107pt x 270.05185pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 91--94
+ [] [] 
+ []
+
+[7 <./img/debian7-65.png>]
+<img/debian7-67.png, id=36, 555.07375pt x 477.785pt>
+File: img/debian7-67.png Graphic file (type png)
+ <use img/debian7-67.png>
+Package pdftex.def Info: img/debian7-67.png used on input line 97.
+(pdftex.def)             Requested size: 308.71107pt x 265.72787pt.
+File: img/debian7-67.png Graphic file (type png)
+
+<use img/debian7-67.png>
+Package pdftex.def Info: img/debian7-67.png used on input line 97.
+(pdftex.def)             Requested size: 308.71107pt x 265.72787pt.
+File: img/debian7-67.png Graphic file (type png)
+ <use img/debian7-67.png>
+Package pdftex.def Info: img/debian7-67.png used on input line 97.
+(pdftex.def)             Requested size: 308.71107pt x 265.72787pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 96--99
+ [] [] 
+ []
+
+<img/debian7-69.png, id=37, 1445.4pt x 903.375pt>
+File: img/debian7-69.png Graphic file (type png)
+ <use img/debian7-69.png>
+Package pdftex.def Info: img/debian7-69.png used on input line 102.
+(pdftex.def)             Requested size: 308.71107pt x 192.9399pt.
+File: img/debian7-69.png Graphic file (type png)
+
+<use img/debian7-69.png>
+Package pdftex.def Info: img/debian7-69.png used on input line 102.
+(pdftex.def)             Requested size: 308.71107pt x 192.9399pt.
+File: img/debian7-69.png Graphic file (type png)
+ <use img/debian7-69.png>
+Package pdftex.def Info: img/debian7-69.png used on input line 102.
+(pdftex.def)             Requested size: 308.71107pt x 192.9399pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 101--104
+ [] [] 
+ []
+
+[8 <./img/debian7-66.png> <./img/debian7-67.png>]
+<img/debian7-71.png, id=43, 717.68124pt x 557.08125pt>
+File: img/debian7-71.png Graphic file (type png)
+
+<use img/debian7-71.png>
+Package pdftex.def Info: img/debian7-71.png used on input line 107.
+(pdftex.def)             Requested size: 308.71107pt x 239.63377pt.
+File: img/debian7-71.png Graphic file (type png)
+ <use img/debian7-71.png>
+Package pdftex.def Info: img/debian7-71.png used on input line 107.
+(pdftex.def)             Requested size: 308.71107pt x 239.63377pt.
+File: img/debian7-71.png Graphic file (type png)
+ <use img/debian7-71.png>
+Package pdftex.def Info: img/debian7-71.png used on input line 107.
+(pdftex.def)             Requested size: 308.71107pt x 239.63377pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 106--109
+ [] [] 
+ []
+
+<img/debian7-72.png, id=44, 554.07pt x 467.7475pt>
+File: img/debian7-72.png Graphic file (type png)
+ <use img/debian7-72.png>
+Package pdftex.def Info: img/debian7-72.png used on input line 112.
+(pdftex.def)             Requested size: 308.71107pt x 260.61641pt.
+File: img/debian7-72.png Graphic file (type png)
+
+<use img/debian7-72.png>
+Package pdftex.def Info: img/debian7-72.png used on input line 112.
+(pdftex.def)             Requested size: 308.71107pt x 260.61641pt.
+File: img/debian7-72.png Graphic file (type png)
+ <use img/debian7-72.png>
+Package pdftex.def Info: img/debian7-72.png used on input line 112.
+(pdftex.def)             Requested size: 308.71107pt x 260.61641pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\OT1/cmr/m/n/12 can choose NAT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\OT1/cmr/m/n/12 (Net-work Ad-dress
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 113--114
+\OT1/cmr/m/n/12 IP, from the Vir-tu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\OT1/cmr/m/n/12 al-Box' switch), or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\OT1/cmr/m/n/12 "Bridged adapter"
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 111--114
+ [] [] 
+ []
+
+[9 <./img/debian7-69.png> <./img/debian7-71.png>] [10 <./img/debian7-72.png>]
+Chapter 3.
+<img/debian7-01.png, id=54, 803.0pt x 603.25375pt>
+File: img/debian7-01.png Graphic file (type png)
+ <use img/debian7-01.png>
+Package pdftex.def Info: img/debian7-01.png used on input line 126.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+File: img/debian7-01.png Graphic file (type png)
+
+<use img/debian7-01.png>
+Package pdftex.def Info: img/debian7-01.png used on input line 126.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+File: img/debian7-01.png Graphic file (type png)
+ <use img/debian7-01.png>
+Package pdftex.def Info: img/debian7-01.png used on input line 126.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 123--129
+ [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11
+
+ <./img/debian7-01.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 135.
+
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
+[12] [13] [14
+
+]
+Chapter 4.
+<img/debian7-02.png, id=70, 801.99625pt x 603.25375pt>
+File: img/debian7-02.png Graphic file (type png)
+
+<use img/debian7-02.png>
+Package pdftex.def Info: img/debian7-02.png used on input line 162.
+(pdftex.def)             Requested size: 308.71107pt x 232.21199pt.
+File: img/debian7-02.png Graphic file (type png)
+ <use img/debian7-02.png>
+Package pdftex.def Info: img/debian7-02.png used on input line 162.
+(pdftex.def)             Requested size: 308.71107pt x 232.21199pt.
+File: img/debian7-02.png Graphic file (type png)
+ <use img/debian7-02.png>
+Package pdftex.def Info: img/debian7-02.png used on input line 162.
+(pdftex.def)             Requested size: 308.71107pt x 232.21199pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 161--164
+ [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 <./img/debian7-02.png>] <img/debian7-03.png, id=75, 805.0075pt x 602.25pt>
+File: img/debian7-03.png Graphic file (type png)
+
+<use img/debian7-03.png>
+Package pdftex.def Info: img/debian7-03.png used on input line 171.
+(pdftex.def)             Requested size: 308.71107pt x 230.95259pt.
+File: img/debian7-03.png Graphic file (type png)
+ <use img/debian7-03.png>
+Package pdftex.def Info: img/debian7-03.png used on input line 171.
+(pdftex.def)             Requested size: 308.71107pt x 230.95259pt.
+File: img/debian7-03.png Graphic file (type png)
+ <use img/debian7-03.png>
+Package pdftex.def Info: img/debian7-03.png used on input line 171.
+(pdftex.def)             Requested size: 308.71107pt x 230.95259pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 170--173
+ [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16 <./img/debian7-03.png>] <img/debian7-04.png, id=80, 808.01875pt x 604.2575
+pt>
+File: img/debian7-04.png Graphic file (type png)
+
+<use img/debian7-04.png>
+Package pdftex.def Info: img/debian7-04.png used on input line 185.
+(pdftex.def)             Requested size: 308.71107pt x 230.86496pt.
+File: img/debian7-04.png Graphic file (type png)
+ <use img/debian7-04.png>
+Package pdftex.def Info: img/debian7-04.png used on input line 185.
+(pdftex.def)             Requested size: 308.71107pt x 230.86496pt.
+File: img/debian7-04.png Graphic file (type png)
+ <use img/debian7-04.png>
+Package pdftex.def Info: img/debian7-04.png used on input line 185.
+(pdftex.def)             Requested size: 308.71107pt x 230.86496pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+\OT1/cmr/m/n/12 DHCP con-fig-u-ra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+\OT1/cmr/m/n/12 search on google:
+ []
+
+
+Overfull \hbox (7.99605pt too wide) in paragraph at lines 186--187
+\OT1/cmr/m/n/12 /etc/network/interfaces| 
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 184--187
+ [] [] 
+ []
+
+<img/debian7-05.png, id=81, 801.99625pt x 604.2575pt>
+File: img/debian7-05.png Graphic file (type png)
+ <use img/debian7-05.png>
+Package pdftex.def Info: img/debian7-05.png used on input line 192.
+(pdftex.def)             Requested size: 308.71107pt x 232.59836pt.
+File: img/debian7-05.png Graphic file (type png)
+
+<use img/debian7-05.png>
+Package pdftex.def Info: img/debian7-05.png used on input line 192.
+(pdftex.def)             Requested size: 308.71107pt x 232.59836pt.
+File: img/debian7-05.png Graphic file (type png)
+ <use img/debian7-05.png>
+Package pdftex.def Info: img/debian7-05.png used on input line 192.
+(pdftex.def)             Requested size: 308.71107pt x 232.59836pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 191--194
+ [] [] 
+ []
+
+<img/debian7-06.png, id=82, 801.99625pt x 601.24625pt>
+File: img/debian7-06.png Graphic file (type png)
+
+<use img/debian7-06.png>
+Package pdftex.def Info: img/debian7-06.png used on input line 197.
+(pdftex.def)             Requested size: 308.71107pt x 231.43922pt.
+File: img/debian7-06.png Graphic file (type png)
+ <use img/debian7-06.png>
+Package pdftex.def Info: img/debian7-06.png used on input line 197.
+(pdftex.def)             Requested size: 308.71107pt x 231.43922pt.
+File: img/debian7-06.png Graphic file (type png)
+ <use img/debian7-06.png>
+Package pdftex.def Info: img/debian7-06.png used on input line 197.
+(pdftex.def)             Requested size: 308.71107pt x 231.43922pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 196--199
+ [] [] 
+ []
+
+[17 <./img/debian7-04.png> <./img/debian7-05.png>]
+Overfull \hbox (0.60619pt too wide) in paragraph at lines 202--202
+[]\OT1/cmr/bx/n/17.28 Creer les util-isa-teurs et choisir les mots de passe 
+ []
+
+<img/debian7-08.png, id=88, 805.0075pt x 604.2575pt>
+File: img/debian7-08.png Graphic file (type png)
+ <use img/debian7-08.png>
+Package pdftex.def Info: img/debian7-08.png used on input line 205.
+(pdftex.def)             Requested size: 308.71107pt x 231.72244pt.
+File: img/debian7-08.png Graphic file (type png)
+
+<use img/debian7-08.png>
+Package pdftex.def Info: img/debian7-08.png used on input line 205.
+(pdftex.def)             Requested size: 308.71107pt x 231.72244pt.
+File: img/debian7-08.png Graphic file (type png)
+ <use img/debian7-08.png>
+Package pdftex.def Info: img/debian7-08.png used on input line 205.
+(pdftex.def)             Requested size: 308.71107pt x 231.72244pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 204--207
+ [] [] 
+ []
+
+<img/debian7-12.png, id=89, 803.0pt x 602.25pt>
+File: img/debian7-12.png Graphic file (type png)
+ <use img/debian7-12.png>
+Package pdftex.def Info: img/debian7-12.png used on input line 210.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-12.png Graphic file (type png)
+
+<use img/debian7-12.png>
+Package pdftex.def Info: img/debian7-12.png used on input line 210.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-12.png Graphic file (type png)
+ <use img/debian7-12.png>
+Package pdftex.def Info: img/debian7-12.png used on input line 210.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 209--212
+ [] [] 
+ []
+
+[18 <./img/debian7-06.png> <./img/debian7-08.png>]
+<img/debian7-13.png, id=95, 803.0pt x 603.25375pt>
+File: img/debian7-13.png Graphic file (type png)
+ <use img/debian7-13.png>
+Package pdftex.def Info: img/debian7-13.png used on input line 215.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+File: img/debian7-13.png Graphic file (type png)
+
+<use img/debian7-13.png>
+Package pdftex.def Info: img/debian7-13.png used on input line 215.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+File: img/debian7-13.png Graphic file (type png)
+ <use img/debian7-13.png>
+Package pdftex.def Info: img/debian7-13.png used on input line 215.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 214--217
+ [] [] 
+ []
+
+<img/debian7-15.png, id=96, 803.0pt x 602.25pt>
+File: img/debian7-15.png Graphic file (type png)
+ <use img/debian7-15.png>
+Package pdftex.def Info: img/debian7-15.png used on input line 220.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-15.png Graphic file (type png)
+
+<use img/debian7-15.png>
+Package pdftex.def Info: img/debian7-15.png used on input line 220.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-15.png Graphic file (type png)
+ <use img/debian7-15.png>
+Package pdftex.def Info: img/debian7-15.png used on input line 220.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 219--222
+ [] [] 
+ []
+
+[19 <./img/debian7-12.png> <./img/debian7-13.png>]
+<img/debian7-16.png, id=103, 804.00375pt x 603.25375pt>
+File: img/debian7-16.png Graphic file (type png)
+
+<use img/debian7-16.png>
+Package pdftex.def Info: img/debian7-16.png used on input line 225.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-16.png Graphic file (type png)
+ <use img/debian7-16.png>
+Package pdftex.def Info: img/debian7-16.png used on input line 225.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-16.png Graphic file (type png)
+ <use img/debian7-16.png>
+Package pdftex.def Info: img/debian7-16.png used on input line 225.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 224--227
+ [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20 <./img/debian7-15.png> <./img/debian7-16.png>]
+<img/debian7-18.png, id=109, 804.00375pt x 604.2575pt>
+File: img/debian7-18.png Graphic file (type png)
+
+<use img/debian7-18.png>
+Package pdftex.def Info: img/debian7-18.png used on input line 240.
+(pdftex.def)             Requested size: 308.71107pt x 232.00827pt.
+File: img/debian7-18.png Graphic file (type png)
+ <use img/debian7-18.png>
+Package pdftex.def Info: img/debian7-18.png used on input line 240.
+(pdftex.def)             Requested size: 308.71107pt x 232.00827pt.
+File: img/debian7-18.png Graphic file (type png)
+ <use img/debian7-18.png>
+Package pdftex.def Info: img/debian7-18.png used on input line 240.
+(pdftex.def)             Requested size: 308.71107pt x 232.00827pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 239--242
+ [] [] 
+ []
+
+<img/debian7-19.png, id=110, 804.00375pt x 603.25375pt>
+File: img/debian7-19.png Graphic file (type png)
+
+<use img/debian7-19.png>
+Package pdftex.def Info: img/debian7-19.png used on input line 245.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-19.png Graphic file (type png)
+ <use img/debian7-19.png>
+Package pdftex.def Info: img/debian7-19.png used on input line 245.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-19.png Graphic file (type png)
+ <use img/debian7-19.png>
+Package pdftex.def Info: img/debian7-19.png used on input line 245.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+
+Underfull \hbox (badness 2334) in paragraph at lines 246--247
+\OT1/cmr/m/n/12 there's only 1 hard
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 244--247
+ [] [] 
+ []
+
+
+Overfull \vbox (5.04416pt too high) has occurred while \output is active []
+
+
+[21 <./img/debian7-18.png> <./img/debian7-19.png>]
+<img/debian7-20.png, id=116, 803.0pt x 602.25pt>
+File: img/debian7-20.png Graphic file (type png)
+ <use img/debian7-20.png>
+Package pdftex.def Info: img/debian7-20.png used on input line 250.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-20.png Graphic file (type png)
+
+<use img/debian7-20.png>
+Package pdftex.def Info: img/debian7-20.png used on input line 250.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-20.png Graphic file (type png)
+ <use img/debian7-20.png>
+Package pdftex.def Info: img/debian7-20.png used on input line 250.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 249--252
+ [] [] 
+ []
+
+<img/debian7-21.png, id=117, 804.00375pt x 602.25pt>
+File: img/debian7-21.png Graphic file (type png)
+ <use img/debian7-21.png>
+Package pdftex.def Info: img/debian7-21.png used on input line 255.
+(pdftex.def)             Requested size: 308.71107pt x 231.23747pt.
+File: img/debian7-21.png Graphic file (type png)
+
+<use img/debian7-21.png>
+Package pdftex.def Info: img/debian7-21.png used on input line 255.
+(pdftex.def)             Requested size: 308.71107pt x 231.23747pt.
+File: img/debian7-21.png Graphic file (type png)
+ <use img/debian7-21.png>
+Package pdftex.def Info: img/debian7-21.png used on input line 255.
+(pdftex.def)             Requested size: 308.71107pt x 231.23747pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 254--257
+ [] [] 
+ []
+
+<img/debian7-22.png, id=118, 803.0pt x 602.25pt>
+File: img/debian7-22.png Graphic file (type png)
+ <use img/debian7-22.png>
+Package pdftex.def Info: img/debian7-22.png used on input line 260.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-22.png Graphic file (type png)
+
+<use img/debian7-22.png>
+Package pdftex.def Info: img/debian7-22.png used on input line 260.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-22.png Graphic file (type png)
+ <use img/debian7-22.png>
+Package pdftex.def Info: img/debian7-22.png used on input line 260.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+\OT1/cmr/m/n/12 new par-ti-tion (this
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 259--262
+ [] [] 
+ []
+
+[22 <./img/debian7-20.png> <./img/debian7-21.png>]
+<img/debian7-23.png, id=124, 803.0pt x 602.25pt>
+File: img/debian7-23.png Graphic file (type png)
+ <use img/debian7-23.png>
+Package pdftex.def Info: img/debian7-23.png used on input line 265.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-23.png Graphic file (type png)
+
+<use img/debian7-23.png>
+Package pdftex.def Info: img/debian7-23.png used on input line 265.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-23.png Graphic file (type png)
+ <use img/debian7-23.png>
+Package pdftex.def Info: img/debian7-23.png used on input line 265.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+
+Underfull \hbox (badness 1509) in paragraph at lines 266--267
+\OT1/cmr/m/n/12 able to cre-ate some
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 264--267
+ [] [] 
+ []
+
+<img/debian7-24.png, id=125, 804.00375pt x 603.25375pt>
+File: img/debian7-24.png Graphic file (type png)
+
+<use img/debian7-24.png>
+Package pdftex.def Info: img/debian7-24.png used on input line 270.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-24.png Graphic file (type png)
+ <use img/debian7-24.png>
+Package pdftex.def Info: img/debian7-24.png used on input line 270.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-24.png Graphic file (type png)
+ <use img/debian7-24.png>
+Package pdftex.def Info: img/debian7-24.png used on input line 270.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 269--272
+ [] [] 
+ []
+
+[23 <./img/debian7-22.png> <./img/debian7-23.png>]
+<img/debian7-25.png, id=131, 803.0pt x 602.25pt>
+File: img/debian7-25.png Graphic file (type png)
+ <use img/debian7-25.png>
+Package pdftex.def Info: img/debian7-25.png used on input line 275.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-25.png Graphic file (type png)
+
+<use img/debian7-25.png>
+Package pdftex.def Info: img/debian7-25.png used on input line 275.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-25.png Graphic file (type png)
+ <use img/debian7-25.png>
+Package pdftex.def Info: img/debian7-25.png used on input line 275.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 274--277
+ [] [] 
+ []
+
+<img/debian7-26.png, id=132, 803.0pt x 602.25pt>
+File: img/debian7-26.png Graphic file (type png)
+ <use img/debian7-26.png>
+Package pdftex.def Info: img/debian7-26.png used on input line 280.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-26.png Graphic file (type png)
+
+<use img/debian7-26.png>
+Package pdftex.def Info: img/debian7-26.png used on input line 280.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-26.png Graphic file (type png)
+ <use img/debian7-26.png>
+Package pdftex.def Info: img/debian7-26.png used on input line 280.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 279--282
+ [] [] 
+ []
+
+[24 <./img/debian7-24.png> <./img/debian7-25.png>]
+<img/debian7-28.png, id=138, 803.0pt x 604.2575pt>
+File: img/debian7-28.png Graphic file (type png)
+ <use img/debian7-28.png>
+Package pdftex.def Info: img/debian7-28.png used on input line 285.
+(pdftex.def)             Requested size: 308.71107pt x 232.31253pt.
+File: img/debian7-28.png Graphic file (type png)
+
+<use img/debian7-28.png>
+Package pdftex.def Info: img/debian7-28.png used on input line 285.
+(pdftex.def)             Requested size: 308.71107pt x 232.31253pt.
+File: img/debian7-28.png Graphic file (type png)
+ <use img/debian7-28.png>
+Package pdftex.def Info: img/debian7-28.png used on input line 285.
+(pdftex.def)             Requested size: 308.71107pt x 232.31253pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 284--287
+ [] [] 
+ []
+
+<img/debian7-29.png, id=139, 803.0pt x 603.25375pt>
+File: img/debian7-29.png Graphic file (type png)
+ <use img/debian7-29.png>
+Package pdftex.def Info: img/debian7-29.png used on input line 290.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+File: img/debian7-29.png Graphic file (type png)
+
+<use img/debian7-29.png>
+Package pdftex.def Info: img/debian7-29.png used on input line 290.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+File: img/debian7-29.png Graphic file (type png)
+ <use img/debian7-29.png>
+Package pdftex.def Info: img/debian7-29.png used on input line 290.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+
+Underfull \hbox (badness 4429) in paragraph at lines 291--292
+\OT1/cmr/m/n/12 con-fig-u-ra-tion is fin-
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 289--292
+ [] [] 
+ []
+
+[25 <./img/debian7-26.png> <./img/debian7-28.png>]
+<img/debian7-30.png, id=146, 805.0075pt x 602.25pt>
+File: img/debian7-30.png Graphic file (type png)
+ <use img/debian7-30.png>
+Package pdftex.def Info: img/debian7-30.png used on input line 295.
+(pdftex.def)             Requested size: 308.71107pt x 230.95259pt.
+File: img/debian7-30.png Graphic file (type png)
+
+<use img/debian7-30.png>
+Package pdftex.def Info: img/debian7-30.png used on input line 295.
+(pdftex.def)             Requested size: 308.71107pt x 230.95259pt.
+File: img/debian7-30.png Graphic file (type png)
+ <use img/debian7-30.png>
+Package pdftex.def Info: img/debian7-30.png used on input line 295.
+(pdftex.def)             Requested size: 308.71107pt x 230.95259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+[]| \OT1/cmr/m/n/12 En-ter into the
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 294--297
+ [] [] 
+ []
+
+<img/debian7-31.png, id=147, 803.0pt x 601.24625pt>
+File: img/debian7-31.png Graphic file (type png)
+ <use img/debian7-31.png>
+Package pdftex.def Info: img/debian7-31.png used on input line 300.
+(pdftex.def)             Requested size: 308.71107pt x 231.15483pt.
+File: img/debian7-31.png Graphic file (type png)
+
+<use img/debian7-31.png>
+Package pdftex.def Info: img/debian7-31.png used on input line 300.
+(pdftex.def)             Requested size: 308.71107pt x 231.15483pt.
+File: img/debian7-31.png Graphic file (type png)
+ <use img/debian7-31.png>
+Package pdftex.def Info: img/debian7-31.png used on input line 300.
+(pdftex.def)             Requested size: 308.71107pt x 231.15483pt.
+
+Underfull \hbox (badness 1057) in paragraph at lines 301--302
+[]| \OT1/cmr/m/n/12 Cre-ate a new par-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 301--302
+\OT1/cmr/m/n/12 ti-tion for the main
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 299--302
+ [] [] 
+ []
+
+[26 <./img/debian7-29.png> <./img/debian7-30.png>]
+<img/debian7-32.png, id=153, 803.0pt x 603.25375pt>
+File: img/debian7-32.png Graphic file (type png)
+ <use img/debian7-32.png>
+Package pdftex.def Info: img/debian7-32.png used on input line 305.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+File: img/debian7-32.png Graphic file (type png)
+
+<use img/debian7-32.png>
+Package pdftex.def Info: img/debian7-32.png used on input line 305.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+File: img/debian7-32.png Graphic file (type png)
+ <use img/debian7-32.png>
+Package pdftex.def Info: img/debian7-32.png used on input line 305.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+
+Underfull \hbox (badness 2197) in paragraph at lines 306--307
+\OT1/cmr/m/n/12 to use all the disk
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 304--307
+ [] [] 
+ []
+
+<img/debian7-33.png, id=154, 804.00375pt x 603.25375pt>
+File: img/debian7-33.png Graphic file (type png)
+
+<use img/debian7-33.png>
+Package pdftex.def Info: img/debian7-33.png used on input line 310.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-33.png Graphic file (type png)
+ <use img/debian7-33.png>
+Package pdftex.def Info: img/debian7-33.png used on input line 310.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-33.png Graphic file (type png)
+ <use img/debian7-33.png>
+Package pdftex.def Info: img/debian7-33.png used on input line 310.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+
+Underfull \hbox (badness 5331) in paragraph at lines 311--312
+[]| \OT1/cmr/m/n/12 "Pri-mary" par-tion
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 309--312
+ [] [] 
+ []
+
+[27 <./img/debian7-31.png> <./img/debian7-32.png>]
+<img/debian7-34.png, id=160, 804.00375pt x 602.25pt>
+File: img/debian7-34.png Graphic file (type png)
+ <use img/debian7-34.png>
+Package pdftex.def Info: img/debian7-34.png used on input line 315.
+(pdftex.def)             Requested size: 308.71107pt x 231.23747pt.
+File: img/debian7-34.png Graphic file (type png)
+
+<use img/debian7-34.png>
+Package pdftex.def Info: img/debian7-34.png used on input line 315.
+(pdftex.def)             Requested size: 308.71107pt x 231.23747pt.
+File: img/debian7-34.png Graphic file (type png)
+ <use img/debian7-34.png>
+Package pdftex.def Info: img/debian7-34.png used on input line 315.
+(pdftex.def)             Requested size: 308.71107pt x 231.23747pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 314--317
+ [] [] 
+ []
+
+<img/debian7-35.png, id=161, 803.0pt x 604.2575pt>
+File: img/debian7-35.png Graphic file (type png)
+ <use img/debian7-35.png>
+Package pdftex.def Info: img/debian7-35.png used on input line 320.
+(pdftex.def)             Requested size: 308.71107pt x 232.31253pt.
+File: img/debian7-35.png Graphic file (type png)
+
+<use img/debian7-35.png>
+Package pdftex.def Info: img/debian7-35.png used on input line 320.
+(pdftex.def)             Requested size: 308.71107pt x 232.31253pt.
+File: img/debian7-35.png Graphic file (type png)
+ <use img/debian7-35.png>
+Package pdftex.def Info: img/debian7-35.png used on input line 320.
+(pdftex.def)             Requested size: 308.71107pt x 232.31253pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 319--322
+ [] [] 
+ []
+
+[28 <./img/debian7-33.png> <./img/debian7-34.png>]
+<img/debian7-36.png, id=167, 803.0pt x 602.25pt>
+File: img/debian7-36.png Graphic file (type png)
+ <use img/debian7-36.png>
+Package pdftex.def Info: img/debian7-36.png used on input line 325.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-36.png Graphic file (type png)
+
+<use img/debian7-36.png>
+Package pdftex.def Info: img/debian7-36.png used on input line 325.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-36.png Graphic file (type png)
+ <use img/debian7-36.png>
+Package pdftex.def Info: img/debian7-36.png used on input line 325.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+
+Underfull \hbox (badness 1635) in paragraph at lines 326--327
+[]| \OT1/cmr/m/n/12 Fin-ish to edit the
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 324--327
+ [] [] 
+ []
+
+<img/debian7-37.png, id=168, 803.0pt x 602.25pt>
+File: img/debian7-37.png Graphic file (type png)
+ <use img/debian7-37.png>
+Package pdftex.def Info: img/debian7-37.png used on input line 330.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-37.png Graphic file (type png)
+
+<use img/debian7-37.png>
+Package pdftex.def Info: img/debian7-37.png used on input line 330.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-37.png Graphic file (type png)
+ <use img/debian7-37.png>
+Package pdftex.def Info: img/debian7-37.png used on input line 330.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 329--332
+ [] [] 
+ []
+
+[29 <./img/debian7-35.png> <./img/debian7-36.png>]
+<img/debian7-38.png, id=174, 804.00375pt x 603.25375pt>
+File: img/debian7-38.png Graphic file (type png)
+
+<use img/debian7-38.png>
+Package pdftex.def Info: img/debian7-38.png used on input line 337.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-38.png Graphic file (type png)
+ <use img/debian7-38.png>
+Package pdftex.def Info: img/debian7-38.png used on input line 337.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-38.png Graphic file (type png)
+ <use img/debian7-38.png>
+Package pdftex.def Info: img/debian7-38.png used on input line 337.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 336--339
+ [] [] 
+ []
+
+<img/debian7-39.png, id=175, 804.00375pt x 603.25375pt>
+File: img/debian7-39.png Graphic file (type png)
+
+<use img/debian7-39.png>
+Package pdftex.def Info: img/debian7-39.png used on input line 344.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-39.png Graphic file (type png)
+ <use img/debian7-39.png>
+Package pdftex.def Info: img/debian7-39.png used on input line 344.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-39.png Graphic file (type png)
+ <use img/debian7-39.png>
+Package pdftex.def Info: img/debian7-39.png used on input line 344.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+
+Underfull \hbox (badness 1377) in paragraph at lines 345--346
+\OT1/cmr/m/n/12 some other De-bian's
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 343--346
+ [] [] 
+ []
+
+[30 <./img/debian7-37.png> <./img/debian7-38.png>]
+<img/debian7-40.png, id=181, 804.00375pt x 603.25375pt>
+File: img/debian7-40.png Graphic file (type png)
+
+<use img/debian7-40.png>
+Package pdftex.def Info: img/debian7-40.png used on input line 349.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-40.png Graphic file (type png)
+ <use img/debian7-40.png>
+Package pdftex.def Info: img/debian7-40.png used on input line 349.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-40.png Graphic file (type png)
+ <use img/debian7-40.png>
+Package pdftex.def Info: img/debian7-40.png used on input line 349.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 348--351
+ [] [] 
+ []
+
+<img/debian7-41.png, id=182, 803.0pt x 602.25pt>
+File: img/debian7-41.png Graphic file (type png)
+ <use img/debian7-41.png>
+Package pdftex.def Info: img/debian7-41.png used on input line 354.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-41.png Graphic file (type png)
+
+<use img/debian7-41.png>
+Package pdftex.def Info: img/debian7-41.png used on input line 354.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-41.png Graphic file (type png)
+ <use img/debian7-41.png>
+Package pdftex.def Info: img/debian7-41.png used on input line 354.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 353--356
+ [] [] 
+ []
+
+[31 <./img/debian7-39.png> <./img/debian7-40.png>]
+<img/debian7-42.png, id=189, 803.0pt x 602.25pt>
+File: img/debian7-42.png Graphic file (type png)
+ <use img/debian7-42.png>
+Package pdftex.def Info: img/debian7-42.png used on input line 359.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-42.png Graphic file (type png)
+
+<use img/debian7-42.png>
+Package pdftex.def Info: img/debian7-42.png used on input line 359.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+File: img/debian7-42.png Graphic file (type png)
+ <use img/debian7-42.png>
+Package pdftex.def Info: img/debian7-42.png used on input line 359.
+(pdftex.def)             Requested size: 308.71107pt x 231.54073pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 358--361
+ [] [] 
+ []
+
+<img/debian7-43.png, id=190, 803.0pt x 603.25375pt>
+File: img/debian7-43.png Graphic file (type png)
+ <use img/debian7-43.png>
+Package pdftex.def Info: img/debian7-43.png used on input line 364.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+File: img/debian7-43.png Graphic file (type png)
+
+<use img/debian7-43.png>
+Package pdftex.def Info: img/debian7-43.png used on input line 364.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+File: img/debian7-43.png Graphic file (type png)
+ <use img/debian7-43.png>
+Package pdftex.def Info: img/debian7-43.png used on input line 364.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 363--366
+ [] [] 
+ []
+
+[32 <./img/debian7-41.png> <./img/debian7-42.png>]
+<img/debian7-44.png, id=196, 805.0075pt x 603.25375pt>
+File: img/debian7-44.png Graphic file (type png)
+
+<use img/debian7-44.png>
+Package pdftex.def Info: img/debian7-44.png used on input line 369.
+(pdftex.def)             Requested size: 308.71107pt x 231.33752pt.
+File: img/debian7-44.png Graphic file (type png)
+ <use img/debian7-44.png>
+Package pdftex.def Info: img/debian7-44.png used on input line 369.
+(pdftex.def)             Requested size: 308.71107pt x 231.33752pt.
+File: img/debian7-44.png Graphic file (type png)
+ <use img/debian7-44.png>
+Package pdftex.def Info: img/debian7-44.png used on input line 369.
+(pdftex.def)             Requested size: 308.71107pt x 231.33752pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 368--371
+ [] [] 
+ []
+
+<img/debian7-46.png, id=197, 804.00375pt x 604.2575pt>
+File: img/debian7-46.png Graphic file (type png)
+
+<use img/debian7-46.png>
+Package pdftex.def Info: img/debian7-46.png used on input line 376.
+(pdftex.def)             Requested size: 308.71107pt x 232.00827pt.
+File: img/debian7-46.png Graphic file (type png)
+ <use img/debian7-46.png>
+Package pdftex.def Info: img/debian7-46.png used on input line 376.
+(pdftex.def)             Requested size: 308.71107pt x 232.00827pt.
+File: img/debian7-46.png Graphic file (type png)
+ <use img/debian7-46.png>
+Package pdftex.def Info: img/debian7-46.png used on input line 376.
+(pdftex.def)             Requested size: 308.71107pt x 232.00827pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 375--378
+ [] [] 
+ []
+
+[33 <./img/debian7-43.png> <./img/debian7-44.png>]
+<img/debian7-47.png, id=203, 803.0pt x 603.25375pt>
+File: img/debian7-47.png Graphic file (type png)
+ <use img/debian7-47.png>
+Package pdftex.def Info: img/debian7-47.png used on input line 381.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+File: img/debian7-47.png Graphic file (type png)
+
+<use img/debian7-47.png>
+Package pdftex.def Info: img/debian7-47.png used on input line 381.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+File: img/debian7-47.png Graphic file (type png)
+ <use img/debian7-47.png>
+Package pdftex.def Info: img/debian7-47.png used on input line 381.
+(pdftex.def)             Requested size: 308.71107pt x 231.92664pt.
+
+Underfull \hbox (badness 2932) in paragraph at lines 382--383
+[]| \OT1/cmr/m/n/12 If you want, you
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 380--383
+ [] [] 
+ []
+
+<img/debian7-48.png, id=204, 801.99625pt x 602.25pt>
+File: img/debian7-48.png Graphic file (type png)
+ <use img/debian7-48.png>
+Package pdftex.def Info: img/debian7-48.png used on input line 386.
+(pdftex.def)             Requested size: 308.71107pt x 231.8256pt.
+File: img/debian7-48.png Graphic file (type png)
+
+<use img/debian7-48.png>
+Package pdftex.def Info: img/debian7-48.png used on input line 386.
+(pdftex.def)             Requested size: 308.71107pt x 231.8256pt.
+File: img/debian7-48.png Graphic file (type png)
+ <use img/debian7-48.png>
+Package pdftex.def Info: img/debian7-48.png used on input line 386.
+(pdftex.def)             Requested size: 308.71107pt x 231.8256pt.
+
+Underfull \hbox (badness 1331) in paragraph at lines 387--388
+[]| \OT1/cmr/m/n/12 Se-lect global pack-
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 387--388
+\OT1/cmr/m/n/12 ages: GUI, lap-top
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 385--388
+ [] [] 
+ []
+
+[34 <./img/debian7-46.png> <./img/debian7-47.png>]
+<img/debian7-59.png, id=210, 804.00375pt x 602.25pt>
+File: img/debian7-59.png Graphic file (type png)
+ <use img/debian7-59.png>
+Package pdftex.def Info: img/debian7-59.png used on input line 391.
+(pdftex.def)             Requested size: 308.71107pt x 231.23747pt.
+File: img/debian7-59.png Graphic file (type png)
+
+<use img/debian7-59.png>
+Package pdftex.def Info: img/debian7-59.png used on input line 391.
+(pdftex.def)             Requested size: 308.71107pt x 231.23747pt.
+File: img/debian7-59.png Graphic file (type png)
+ <use img/debian7-59.png>
+Package pdftex.def Info: img/debian7-59.png used on input line 391.
+(pdftex.def)             Requested size: 308.71107pt x 231.23747pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 390--393
+ [] [] 
+ []
+
+<img/debian7-60.png, id=211, 806.01125pt x 605.26125pt>
+File: img/debian7-60.png Graphic file (type png)
+
+<use img/debian7-60.png>
+Package pdftex.def Info: img/debian7-60.png used on input line 398.
+(pdftex.def)             Requested size: 308.71107pt x 231.82104pt.
+File: img/debian7-60.png Graphic file (type png)
+ <use img/debian7-60.png>
+Package pdftex.def Info: img/debian7-60.png used on input line 398.
+(pdftex.def)             Requested size: 308.71107pt x 231.82104pt.
+File: img/debian7-60.png Graphic file (type png)
+ <use img/debian7-60.png>
+Package pdftex.def Info: img/debian7-60.png used on input line 398.
+(pdftex.def)             Requested size: 308.71107pt x 231.82104pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 397--400
+ [] [] 
+ []
+
+[35 <./img/debian7-48.png> <./img/debian7-59.png>]
+<img/debian7-61.png, id=217, 804.00375pt x 603.25375pt>
+File: img/debian7-61.png Graphic file (type png)
+
+<use img/debian7-61.png>
+Package pdftex.def Info: img/debian7-61.png used on input line 403.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-61.png Graphic file (type png)
+ <use img/debian7-61.png>
+Package pdftex.def Info: img/debian7-61.png used on input line 403.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+File: img/debian7-61.png Graphic file (type png)
+ <use img/debian7-61.png>
+Package pdftex.def Info: img/debian7-61.png used on input line 403.
+(pdftex.def)             Requested size: 308.71107pt x 231.62286pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 402--405
+ [] [] 
+ []
+
+<img/debian7-73.png, id=218, 643.40375pt x 481.8pt>
+File: img/debian7-73.png Graphic file (type png)
+ <use img/debian7-73.png>
+Package pdftex.def Info: img/debian7-73.png used on input line 408.
+(pdftex.def)             Requested size: 308.71107pt x 231.1805pt.
+File: img/debian7-73.png Graphic file (type png)
+
+<use img/debian7-73.png>
+Package pdftex.def Info: img/debian7-73.png used on input line 408.
+(pdftex.def)             Requested size: 308.71107pt x 231.1805pt.
+File: img/debian7-73.png Graphic file (type png)
+ <use img/debian7-73.png>
+Package pdftex.def Info: img/debian7-73.png used on input line 408.
+(pdftex.def)             Requested size: 308.71107pt x 231.1805pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 407--410
+ [] [] 
+ []
+
+[36 <./img/debian7-60.png> <./img/debian7-61.png>]
+<img/debian7-63.png, id=224, 803.0pt x 604.2575pt>
+File: img/debian7-63.png Graphic file (type png)
+ <use img/debian7-63.png>
+Package pdftex.def Info: img/debian7-63.png used on input line 422.
+(pdftex.def)             Requested size: 308.71107pt x 232.31253pt.
+File: img/debian7-63.png Graphic file (type png)
+
+<use img/debian7-63.png>
+Package pdftex.def Info: img/debian7-63.png used on input line 422.
+(pdftex.def)             Requested size: 308.71107pt x 232.31253pt.
+File: img/debian7-63.png Graphic file (type png)
+ <use img/debian7-63.png>
+Package pdftex.def Info: img/debian7-63.png used on input line 422.
+(pdftex.def)             Requested size: 308.71107pt x 232.31253pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
+[]| \OT1/cmr/m/n/12 Con-grat-i-t-u-la-tion !
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 423--424
+\OT1/cmr/m/n/12 You've in-stalled you
+ []
+
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 421--424
+ [] [] 
+ []
+
+[37 <./img/debian7-73.png>]
+<img/debian7-74.png, id=230, 1030.85126pt x 771.88374pt>
+File: img/debian7-74.png Graphic file (type png)
+
+<use img/debian7-74.png>
+Package pdftex.def Info: img/debian7-74.png used on input line 427.
+(pdftex.def)             Requested size: 308.71107pt x 231.15468pt.
+File: img/debian7-74.png Graphic file (type png)
+ <use img/debian7-74.png>
+Package pdftex.def Info: img/debian7-74.png used on input line 427.
+(pdftex.def)             Requested size: 308.71107pt x 231.15468pt.
+File: img/debian7-74.png Graphic file (type png)
+ <use img/debian7-74.png>
+Package pdftex.def Info: img/debian7-74.png used on input line 427.
+(pdftex.def)             Requested size: 308.71107pt x 231.15468pt.
+
+Overfull \hbox (38.62633pt too wide) in alignment at lines 426--429
+ [] [] 
+ []
+
+[38 <./img/debian7-63.png> <./img/debian7-74.png>]
+Chapter 5.
+[39
+
+] [40
+
+]
+Chapter 6.
+[41] [42
+
+]
+Chapter 7.
+[43] (./debian7install-befr.aux) ) 
+Here is how much of TeX's memory you used:
+ 4452 strings out of 493117
+ 63129 string characters out of 6135433
+ 149913 words of memory out of 5000000
+ 7774 multiletter control sequences out of 15000+600000
+ 9459 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,12n,35p,829b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsl12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb>
+Output written on debian7install-befr.pdf (43 pages, 1023640 bytes).
+PDF statistics:
+ 280 PDF objects out of 1000 (max. 8388607)
+ 120 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 266 words of extra memory for PDF output out of 10000 (max. 10000000)
+

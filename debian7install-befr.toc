@@ -1,0 +1,32 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Intro}{5}
+\contentsline {section}{\numberline {1.1}Welcome}{5}
+\contentsline {section}{\numberline {1.2}Informations}{5}
+\contentsline {chapter}{\numberline {2}VirtualBox configuration}{7}
+\contentsline {section}{\numberline {2.1}Settings pre-configuration}{7}
+\contentsline {chapter}{\numberline {3}Steps list}{11}
+\contentsline {section}{\numberline {3.1}List}{11}
+\contentsline {chapter}{\numberline {4}Detailed frames}{15}
+\contentsline {section}{\numberline {4.1}Choisir la langue}{15}
+\contentsline {section}{\numberline {4.2}Configurer le clavier}{16}
+\contentsline {section}{\numberline {4.3}Detecter et monter le CD}{16}
+\contentsline {section}{\numberline {4.4}Charger des composants a partir du CD}{16}
+\contentsline {section}{\numberline {4.5}Detecter le materiel reseau}{17}
+\contentsline {section}{\numberline {4.6}Configurer le reseau}{17}
+\contentsline {section}{\numberline {4.7}Creer les utilisateurs et choisir les mots de passe}{18}
+\contentsline {section}{\numberline {4.8}Configurer l'horloge}{21}
+\contentsline {section}{\numberline {4.9}Detecter les disques}{21}
+\contentsline {section}{\numberline {4.10}Partitionner les disques}{21}
+\contentsline {section}{\numberline {4.11}Installer le systeme de base}{30}
+\contentsline {section}{\numberline {4.12}Configurer l'outil de gestion des paquets}{30}
+\contentsline {section}{\numberline {4.13}Choisir et installer des logiciels}{33}
+\contentsline {section}{\numberline {4.14}Installer GRUB sur le disque}{35}
+\contentsline {section}{\numberline {4.15}Installer LILO sur le disque}{37}
+\contentsline {section}{\numberline {4.16}Continuer sans programme de demarrage}{37}
+\contentsline {section}{\numberline {4.17}Terminer l'installation}{37}
+\contentsline {chapter}{\numberline {5}Conclusion}{39}
+\contentsline {section}{\numberline {5.1}Final note}{39}
+\contentsline {chapter}{\numberline {6}TODO next steps}{41}
+\contentsline {section}{\numberline {6.1}What can you do now?}{41}
+\contentsline {chapter}{\numberline {7}Annexes}{43}
+\contentsline {section}{\numberline {7.1}Bibliography}{43}
